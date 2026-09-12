@@ -305,7 +305,7 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **Olufunke Akinsote**\
-Cybersecurity Professional B082
+Cybersecurity Professional 
 
 LinkedIn: https://www.linkedin.com/in/olufunke-akinsote-olufunkeakinsote/
 
